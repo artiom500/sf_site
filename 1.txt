@@ -1,5 +1,6 @@
 123
 
-
-
 test 456
+
+# Try2 Julia"s practice work 2
+To set up the SFTP server connection, the user will require a web server with proper Internet support with SFTP port number 22, essential for your system’s secure file transfer protocol server.
